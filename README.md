@@ -1,3 +1,2 @@
 # scanProjectEx
-j
-x
+
